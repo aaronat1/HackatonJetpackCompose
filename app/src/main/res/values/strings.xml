@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hackaton</string>
+    <string name="home">Register</string>
+    <string name="register">Register</string>
+    <string name="terms">You confirm that you are of legal age</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="clear">Clear</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+    <string name="email_error">You must enter a valid email</string>
+    <string name="pass_error">The password must be at least 6 characters</string>
+    <string name="terms_error">You must confirm your legal age</string>
+    <string name="signup">Account created successfully</string>
+    <string name="date">Date of birth</string>
+    <string name="age_error">You must be of legal age</string>
+    <string name="congratulations">Congratulations</string>
+</resources>
